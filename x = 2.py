@@ -1,3 +1,3 @@
-X = 2 
-Y = 4
-print(Y+X)
+x = 2 
+y = 4
+print(y+x)
